@@ -8,6 +8,7 @@ Eu gosto de resolver problemas, assim como contribuir para a equipe para atingir
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagofel9719@gmail.com)
 
 ![Thiago Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagofelipedev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofelipedev&layout=compact)
 
 ## Tecnologias
 
